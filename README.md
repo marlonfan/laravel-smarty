@@ -5,7 +5,7 @@ Laravel 5.5 + Fis3 静态资源管理系统
 ## 安装
 
 ```
-composer require double-c/smarty
+composer require double-c/laravel-smarty
 ```
 
 ## 配置
