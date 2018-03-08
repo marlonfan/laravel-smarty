@@ -16,7 +16,7 @@ composer require double-c/laravel-smarty
         double-c\Smarty\SmartyServiceProvider::class,
     )
 ```
-* 执行发布配置文件：`php artisan vendor:publish --provider="xfeng\Smarty\SmartyServiceProvider" --tag=config --tag=plugins`
+* 执行发布配置文件：`php artisan vendor:publish --provider="DoubleC\Smarty\SmartyServiceProvider" --tag=config --tag=plugins`
 
 
 ## 使用
