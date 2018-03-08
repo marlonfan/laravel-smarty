@@ -22,7 +22,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "double-c\\Smarty\\": "src/"
+            "DoubleC\\Smarty\\": "src/"
         }
     }
 }

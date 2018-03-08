@@ -1,5 +1,5 @@
 <?php
-namespace chenchao\Smarty;
+namespace DoubleC\Smarty;
 
 use Illuminate\Contracts\View\Engine;
 use Illuminate\View\Compilers\CompilerInterface;
