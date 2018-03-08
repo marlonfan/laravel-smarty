@@ -13,7 +13,7 @@ composer require xfeng/smarty
 ```php
     'providers' => array(
         // ...
-        xfeng\Smarty\SmartyServiceProvider::class,
+        double-c\Smarty\SmartyServiceProvider::class,
     )
 ```
 * 执行发布配置文件：`php artisan vendor:publish --provider="xfeng\Smarty\SmartyServiceProvider" --tag=config --tag=plugins`
