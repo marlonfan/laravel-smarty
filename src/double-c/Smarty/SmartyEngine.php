@@ -1,5 +1,5 @@
 <?php
-namespace xfeng\Smarty;
+namespace chenchao\Smarty;
 
 use Illuminate\Contracts\View\Engine;
 use Illuminate\View\Compilers\CompilerInterface;

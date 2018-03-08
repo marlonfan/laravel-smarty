@@ -1,5 +1,5 @@
 <?php
-namespace xfeng\Smarty;
+namespace chenchao\Smarty;
 
 use Illuminate\Support\ServiceProvider;
 
