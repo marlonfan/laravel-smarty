@@ -9,7 +9,7 @@
         "fis smarty"
     ],
     "require": {
-        "php": "7.0",
+        "php": ">=7.0",
         "illuminate/support": "5.5.*",
         "smarty/smarty": "3.1.27"
     },
