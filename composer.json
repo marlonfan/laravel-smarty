@@ -1,0 +1,28 @@
+{
+    "name": "double-c/laravel-smarty",
+    "description": "laravel + smarty from cc",
+    "keywords": [
+        "Laravel",
+        "Smarty",
+        "View",
+        "fis",
+        "fis smarty"
+    ],
+    "require": {
+        "php": "7.0",
+        "illuminate/support": "5.5.*",
+        "smarty/smarty": "3.1.27"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenchao",
+            "email": "chenchao_cn@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "double-c\\Smarty\\": "src/"
+        }
+    }
+}
